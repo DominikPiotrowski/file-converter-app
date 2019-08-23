@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Master Card",
+    "prefix": 51,
+    "length": 16
+  },
+  {
+    "name": "Visa",
+    "prefix": 52,
+    "length": 16
+  },
+  {
+    "name": "Master Card",
+    "prefix": 53,
+    "length": 16
+  }
+]

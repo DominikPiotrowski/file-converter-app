@@ -1,0 +1,14 @@
+[
+  {
+    "model": "Insignia",
+    "engineVolume": "2000.0",
+    "color": "black",
+    "brand": "Opel"
+  },
+  {
+    "model": "Lancer",
+    "engineVolume": "1600.0",
+    "color": "red",
+    "brand": "Mitsubishi"
+  }
+]
